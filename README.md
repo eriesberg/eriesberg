@@ -7,6 +7,8 @@ I'm currently learning about how to use tools like Python, SQL, and Tableau to m
 See the Case Studies for my Data Analysis Portfolio here:
 [Case Studies](https://github.com/eriesberg/eriesberg/blob/main/Data%20Analysis%20Portfolio%20-%20Case%20Studies.pdf)
 
+See my Resume here: [Resume](https://github.com/eriesberg/eriesberg/blob/main/Riesberg-Eric-Resume.pdf)
+
 I am available via email:
 eriesberg31@gmail.com
 
